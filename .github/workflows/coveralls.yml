@@ -29,4 +29,4 @@ jobs:
     - name: Enviando informacion a coveralls
       uses: coverallsapp/github-action@master
       with:
-        github-action: ${{ secrets.github_token }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
