@@ -1,0 +1,10 @@
+{
+  "name": "Desarrollo de Sistemas Informáticos - Modificación 04",
+  "entryPoints": [
+    "./src"
+  ],
+  "out": "./docs",
+  "theme": "default",
+  "highlightTheme": "github-light",
+  "media": "./images"
+}
